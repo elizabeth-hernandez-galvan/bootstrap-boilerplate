@@ -1,6 +1,6 @@
-### Bitwise Mobile Friendly Class - Summer 2021
+# Bitwise Mobile Friendly Class - Summer 2021
 
-## Learned about best Folder practices and created the following folders:
+### Learned about best Folder practices and created the following folders:
 - [x] CSS
-- [ ] JS
-- [ ] Imgs
+- [x] JS
+- [x] Imgs
